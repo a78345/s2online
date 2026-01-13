@@ -1,2 +1,2 @@
 loreum ipsum dolar
-foo
+foo bar
